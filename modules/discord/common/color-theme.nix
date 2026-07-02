@@ -432,7 +432,7 @@ colors: ''
           background-color: var(--base02) !important;
       }
       .channelTextArea_f75fb0 {
-          background: var(--base02) !important;
+          background: var(--base00) !important;
       }
       .chatContent_f75fb0 {
           background-color: var(--base00) !important;

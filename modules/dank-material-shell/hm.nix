@@ -58,7 +58,7 @@ mkTarget {
                 outline = base03;
                 surfaceContainer = base01;
                 surfaceContainerHigh = base00;
-                surfaceContainerHighest = base01;
+                surfaceContainerHighest = base00;
                 error = base08;
                 warning = base0A;
                 info = base0C;

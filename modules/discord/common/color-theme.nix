@@ -52,7 +52,7 @@ colors: ''
       --background-mentioned-hover: var(--base02) !important;
       --background-mentioned: var(--base01) !important;
       --background-message-highlight: var(--base01) !important;
-      --background-message-hover: var(--base00) !important;
+      --background-message-hover: var(--base01) !important;
       --background-modifier-accent: var(--base02) !important;
       --background-modifier-active: var(--base02) !important;
       --background-modifier-hover: var(--base00) !important;
@@ -105,7 +105,7 @@ colors: ''
       --channel-icon: var(--base04) !important;
       --channels-default: var(--base04) !important;
       --channel-text-area-placeholder: var(--base03) !important;
-      --channeltextarea-background: var(--base01) !important;
+      --channeltextarea-background: var(--base00) !important;
       --chat-background-default: var(--base02) !important;
       --checkbox-background-checked: var(--base0D) !important;
       --checkbox-border-checked: var(--base0D) !important;
@@ -152,9 +152,9 @@ colors: ''
       --red-500: var(--base08) !important;
       --red-630: var(--base08) !important;
       --red: var(--base08) !important;
-      --scrollbar-auto-thumb: var(--base00) !important;
+      --scrollbar-auto-thumb: var(--base01) !important;
       --scrollbar-auto-track: transparent;
-      --scrollbar-thin-thumb: var(--base00) !important;
+      --scrollbar-thin-thumb: var(--base01) !important;
       --scrollbar-thin-track: transparent;
       --search-popout-option-fade: none;
       --search-popout-option-non-text-color: var(--base07) !important;
@@ -435,7 +435,7 @@ colors: ''
           background: var(--base02) !important;
       }
       .chatContent_f75fb0 {
-          background-color: var(--base01) !important;
+          background-color: var(--base00) !important;
       }
       .chatGradient__36d07 {
           background: linear-gradient(to bottom, transparent, var(--base01)) !important;

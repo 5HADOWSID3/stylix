@@ -52,7 +52,7 @@ mkTarget {
                 surfaceText = base05;
                 surfaceVariant = base00;
                 surfaceVariantText = base04;
-                surfaceTint = base00;
+                surfaceTint = base01;
                 background = base00;
                 backgroundText = base05;
                 outline = base03;

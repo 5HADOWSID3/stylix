@@ -52,12 +52,12 @@ mkTarget {
                 surfaceText = base05;
                 surfaceVariant = base00;
                 surfaceVariantText = base04;
-                surfaceTint = base01;
+                surfaceTint = base00;
                 background = base00;
                 backgroundText = base05;
                 outline = base03;
-                surfaceContainer = base00;
-                surfaceContainerHigh = base01;
+                surfaceContainer = base01;
+                surfaceContainerHigh = base00;
                 surfaceContainerHighest = base01;
                 error = base08;
                 warning = base0A;
